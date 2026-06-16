@@ -1,0 +1,31 @@
+<html>
+<head>
+<title> Специализирани предмети </title>
+<style>
+h1{color:black;
+   text-align:center;}
+</style>
+
+
+</head>
+<body>
+<h1> Предмети </h1>
+
+ <ul>
+ 
+        <li> <a href="Za_Emir.html"> Комппютърна анимация </a> </li>
+	    <li> <a href="Kontakti_Emir.html"> Анимационна режисура </a> </li>
+		<li> <a href="Za_Emir.html"> Кино </a> </li>
+		<li> <a href="Za_Emir.html"> фотография </a> </li>
+	    <li> <a href="Kontakti_Emir.html"> Компютърна графика </a> </li>
+		<li> <a href="Za_Emir.html"> Предпечатна подготовка </a> </li>
+		<li> <a href="Za_Emir.html"> Мултимедийни технологии </a> </li>
+	    <li> <a href="Kontakti_Emir.html"> Оператоство </a> </li>
+		<li> <a href="Za_Emir.html"> История на изкуството </a> </li>
+		<li> <a href="Za_Emir.html"> Изобразително изкуство </a> </li>
+		
+ </ul>
+
+
+</body>
+</html>
